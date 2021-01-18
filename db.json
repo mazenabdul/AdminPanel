@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "id": 4,
+      "message": "Fixed station 002 and 3",
+      "attention": false,
+      "tech": "Mazen Abdul",
+      "date": "2021-01-18T03:37:03.086Z"
+    },
+    {
+      "id": 6,
+      "message": "Changed network card aswell",
+      "attention": true,
+      "tech": "Mazen Abdul",
+      "date": "2021-01-18T03:36:19.056Z"
+    },
+    {
+      "message": "Changed network card and wiring",
+      "attention": true,
+      "tech": "Mazen Abdul",
+      "date": "2021-01-18T02:50:54.189Z",
+      "id": 7
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "first": "John",
+      "last": "Hopkins"
+    },
+    {
+      "id": 2,
+      "first": "Will",
+      "last": "Jenkins"
+    },
+    {
+      "id": 3,
+      "first": "Sam",
+      "last": "Smith"
+    },
+    {
+      "first": "Mazen",
+      "last": "Abdul",
+      "id": 4
+    }
+  ]
+}
