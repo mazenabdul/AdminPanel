@@ -5,7 +5,7 @@
       "message": "Fixed station 002 and 3",
       "attention": false,
       "tech": "Mazen Abdul",
-      "date": "2021-01-18T03:37:03.086Z"
+      "date": "2021-01-18T05:16:06.212Z"
     },
     {
       "id": 6,
@@ -20,6 +20,13 @@
       "tech": "Mazen Abdul",
       "date": "2021-01-18T02:50:54.189Z",
       "id": 7
+    },
+    {
+      "message": "Testing",
+      "attention": false,
+      "tech": "Mazen Abdul",
+      "date": "2021-01-18T05:12:51.950Z",
+      "id": 9
     }
   ],
   "techs": [
@@ -32,11 +39,6 @@
       "id": 2,
       "first": "Will",
       "last": "Jenkins"
-    },
-    {
-      "id": 3,
-      "first": "Sam",
-      "last": "Smith"
     },
     {
       "first": "Mazen",
